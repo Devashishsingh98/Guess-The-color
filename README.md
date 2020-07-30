@@ -1,6 +1,6 @@
-# Rang Bata Basanti
+# Guess The Color
 
-### About Rang Bata Basanti
+### About Guess The Color
 * It is a game which help in people understanding alot about the colors.
 * It is a fun way to start learning about colors.
 ### About RGB
