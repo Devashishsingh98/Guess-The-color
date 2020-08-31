@@ -10,4 +10,4 @@
 * In HTML there is a range of input of colour in RGB which goes from 0-255.
 #### When all these colors are mixed toghther. They form something new colour, even white color.
 
-## Please have fun by enjoying this little game :grin:
+## have fun by enjoying this little game :grin:
